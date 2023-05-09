@@ -1,0 +1,9 @@
+#ddev-gitpod-generated
+router_http_port: 8080
+router_https_port: 8443
+use_dns_when_possible: false
+
+additional_fqdns:
+- 8080-kaishiro1996-pruebaucr-ig3oykmbf6h.ws-us96b.gitpod.io
+- 8025-kaishiro1996-pruebaucr-ig3oykmbf6h.ws-us96b.gitpod.io
+- 8036-kaishiro1996-pruebaucr-ig3oykmbf6h.ws-us96b.gitpod.io
